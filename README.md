@@ -1,3 +1,11 @@
 # Psai Naruebest Portfolio
 
-Personal engineering portfolio website.
+A bilingual Thai–English static portfolio for Psai Naruebest, Electrical & Electronics Engineer.
+
+## Local preview
+
+```bash
+python3 -m http.server 8080
+```
+
+Open `http://localhost:8080`.
